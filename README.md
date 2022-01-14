@@ -8,5 +8,8 @@
 
 
 ##   Animação  01 - Foguete <a name="id00"></a>
-![ Dia 01 ](https://user-images.githubusercontent.com/72812066/149570540-778046c8-8673-43ea-9c9e-5f567eebd823.gif)
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/72812066/149570540-778046c8-8673-43ea-9c9e-5f567eebd823.gif">
+</div>
+
 
