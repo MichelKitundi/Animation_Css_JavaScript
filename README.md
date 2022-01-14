@@ -1,4 +1,4 @@
-<div align="cemnter">
+<div align="center">
    <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, Animation_Css_JavaScript! </h2>
 </div>
 
@@ -11,5 +11,3 @@
 <div align="center">
  <img src="https://user-images.githubusercontent.com/72812066/149570540-778046c8-8673-43ea-9c9e-5f567eebd823.gif">
 </div>
-
-
