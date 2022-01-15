@@ -3,11 +3,12 @@
 </div>
 
 ### Animações com CSS e Javascript 🤓
-* [ Animação 01 - Foguete ](#id00) 👩‍🚀🚀       👉 * CODIGO * [ Meu código ](https://github.com/MichelKitundi/Animation_Css_JavaScript/tree/main/ani_foguete)
-
+* [ Animação 01 - Foguete ](#id00) 👩‍🚀🚀       
+   * CÓDIGO FONTE   👉[ Meu código ](https://github.com/MichelKitundi/Animation_Css_JavaScript/tree/main/ani_foguete)👈
 
 
 ##   Animação  01 - Foguete <a name="id00"></a>
 <div align="center">
  <img src="https://user-images.githubusercontent.com/72812066/149570540-778046c8-8673-43ea-9c9e-5f567eebd823.gif">
 </div>
+  
