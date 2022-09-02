@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, Animation_Css_JavaScript! </h2>
+   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, Animação_Css_JavaScript! </h2>
 </div>
 
 ### Animações com CSS e Javascript 🤓
