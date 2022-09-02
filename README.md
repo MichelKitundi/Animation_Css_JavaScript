@@ -1,10 +1,11 @@
 
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, Animação_Css_JavaScript! </h2>
+   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
+   <h2 >Olá, Animação_Css_JavaScript!</h2>
 </div>
 
-### Animações com CSS e Javascript 🤓
+### Animações com CSS e <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/> 🤓
 * [ Animação 01 - Foguete ](#id00) 👩‍🚀🚀 
 * [ Animação 02 - Menu ](#id01)
 * [ Animação 03 - Homen - Mulher ](#id02)
